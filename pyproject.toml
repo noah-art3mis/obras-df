@@ -1,7 +1,7 @@
 [project]
-name = "takehome-lablivre-analysis"
+name = "obras-df"
 version = "0.1.0"
-description = "Add your description here"
+description = "Analysis of planned federal infrastructure investment in Brazil’s Federal District"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
