@@ -2419,7 +2419,7 @@ wheels = [
 ]
 
 [[package]]
-name = "takehome-lablivre-analysis"
+name = "obras-df"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
